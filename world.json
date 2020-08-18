@@ -1,7 +1,7 @@
 {
   "name": "vampirov5-public",
   "title": "Vampiro V5",
-  "description": "",
+  "description": "<p>Sistema de <strong>Vampiro: La Mascarada V5</strong> (Quinta Edici&oacute;n) para <a href=\"https://gitlab.com/rolnl/sandbox-system-builder/\" target=\"_blank\" rel=\"noopener\">Sandbox</a> de <a href=\"https://www.youtube.com/c/RolNL/\" target=\"_blank\" rel=\"noopener\">Rol NL</a>.</p>\n<p>Creado por <a href=\"https://twitter.com/Musrha\" target=\"_blank\" rel=\"noopener\">Musrha</a>. Aseg&uacute;rate de mirar el&nbsp;<strong>L&eacute;eme</strong> en el Journal/Diario para saber c&oacute;mo funciona la ficha.</p>",
   "version": "1.0.0",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
@@ -9,8 +9,12 @@
   "esmodules": [],
   "styles": [],
   "packs": [],
-  "languages": [],
-  "authors": [],
+  "languages": [
+	"spanish"
+  ],
+  "authors": [
+	"Musrha"
+  ],
   "keywords": [],
   "socket": false,
   "url": "https://github.com/Musrha/foundry-vampirov5",
