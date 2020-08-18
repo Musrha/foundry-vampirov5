@@ -13,4 +13,5 @@ Te recomiendo que lo instales con este enlace al [world.json](https://raw.github
 - [ ] Diseño CSS.
 - [ ] Ampliación de ciertos cItems
 - [ ] Separar Méritos/Defectos de Sangre Débil
+- [ ] Diferenciar Daño Superficial de Daño Agravado.
 - Y mucho más según avance Sandbox :)
