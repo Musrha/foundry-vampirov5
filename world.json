@@ -10,14 +10,12 @@
   "styles": [],
   "packs": [],
   "languages": [],
-  "authors": [
-	"Musrha"
-  ],
+  "authors": [],
   "keywords": [],
   "socket": false,
-  "url": "https://github.com/Musrha/foundry-vampirov5",
-  "manifest": "https://raw.githubusercontent.com/Musrha/foundry-vampirov5/master/world.json",
-  "download": "https://github.com/Musrha/foundry-vampirov5/archive/master.zip",
+  "url": "",
+  "manifest": "",
+  "download": "",
   "license": "",
   "readme": "",
   "bugs": "",
