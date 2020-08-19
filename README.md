@@ -10,7 +10,7 @@ Te recomiendo que lo instales con este enlace al [world.json](https://raw.github
 
 # TODO
 - [X] Lanzamiento inicial.
-- [ ] Diseño CSS.
+- [X] Diseño CSS.
 - [ ] Ampliación de ciertos cItems
 - [ ] Separar Méritos/Defectos de Sangre Débil
 - [ ] Diferenciar Daño Superficial de Daño Agravado.
