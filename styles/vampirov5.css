@@ -8,6 +8,13 @@
 	src:url(fonts/CormorantGaramond-SemiBold.otf);
 }
 
+a#tab-prev {
+    color: #790914;
+}
+a#tab-next {
+    color: #790914;
+}
+
 .sandbox.sheet .window-content {
     padding: 5px 3px;
     overflow-y: hidden;
@@ -34,6 +41,12 @@ select {
 
 .sandbox.sheet .radio-input {
 	color: #790914;
+}
+
+.sandbox.sheet table.table-free.tabla_poderes {
+	transform: scale(0.94);
+    position: relative;
+    top: -4px;
 }
 
 /* Sheet Header */
@@ -975,6 +988,7 @@ select {
 	background: #EDEDED;
 	border: solid 1px #790914;
     text-align: center;
+	box-shadow: 1px 0px 5px 0px #790914bd;
 }
 
 .sandbox.sheet td.input-min {
@@ -1085,8 +1099,8 @@ select {
     width:100%;
     flex: 0 0 40px;
     flex-direction: row;
-    border-top: 1px solid #AAA;
-    border-bottom: 2px solid black;
+    border-top: 1px solid #7909143d;
+    border-bottom: 2px solid #790914;
     padding: 15px 20px;
 
 }
