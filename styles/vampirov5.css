@@ -49,6 +49,8 @@ select {
     top: -4px;
 }
 
+
+
 /* Sheet Header */
 .sandbox.sheet .sheet-header {
     overflow: hidden;
@@ -293,7 +295,8 @@ select {
     margin: 0;
     padding: 5px 5px;
     width: 150px;
-    font-size:13px;
+    font-size:14px;
+	font-family: CormorantGaramond;
 }
 
 .sandbox.sheet .label-large {
@@ -1534,4 +1537,8 @@ div.dmtk-tooltip.visible {
     visibility: visible;
 }
 
+div.app.window-app.sandbox.sheet.actor {
+	min-width: 650px;
+	min-height: 850px;
+}
 
