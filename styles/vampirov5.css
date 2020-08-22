@@ -49,6 +49,8 @@ select {
     top: -4px;
 }
 
+
+
 /* Sheet Header */
 .sandbox.sheet .sheet-header {
     overflow: hidden;
@@ -1382,6 +1384,8 @@ select {
 .sandbox.sheet ,groupblock input.check-isconstant{
     margin:0;
     padding:0px 10px;
+	min-width: 650px;
+	min-height: 850px;
 }
 
 .sandbox.sheet .properties-list .group-name {
