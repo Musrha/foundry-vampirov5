@@ -24,7 +24,7 @@ a#tab-next {
 
 input[type="text"] {
   border: 1px solid #790914;
-  border-radius: 15px;
+  border-radius: 3px;
   color: #790914;
   background-color: #CCCCCC00;
 }
@@ -33,6 +33,7 @@ select {
 	border: 1px solid #790914;
 	color: #790914;
 	background: #CCCCCC00;
+	border-radius: 30px;
 }
 
 .sandbox.sheet .flexblock-center input[type=text].input-small.resonancia {
@@ -48,7 +49,6 @@ select {
     position: relative;
     top: -4px;
 }
-
 
 
 /* Sheet Header */
@@ -702,7 +702,7 @@ select {
     font-size: 11px;
     text-align: center;
     border: 1px solid #790914;
-    border-radius: 3px;
+    border-radius: 30px;
     background-color:#CCCCCC00;
     padding: 2px 0px;
 }
@@ -762,6 +762,7 @@ select {
     width:40px;
     min-width:40px;
     height: 26px;
+	border-radius: 30px;
 }
 .sandbox.sheet .flexblock-left input[type=text].input-bhalf{
     width:35px;
@@ -1535,10 +1536,5 @@ div.dmtk-tooltip div.value i {
 /* Show the tooltip text when you mouse over the tooltip container */
 div.dmtk-tooltip.visible {
     visibility: visible;
-}
-
-div.app.window-app.sandbox.sheet.actor {
-	min-width: 650px;
-	min-height: 850px;
 }
 
