@@ -16,6 +16,6 @@ Te recomiendo que lo instales con este enlace al [world.json](https://raw.github
 - [X] Diseño CSS.
 - [X] Ampliación de ciertos cItems
 - [X] Separar Méritos/Defectos de Sangre Débil
-- [ ] Plantilla de ficha para la Coterie
-- [ ] Diferenciar Daño Superficial de Daño Agravado.
+- [X] Plantilla de ficha para la Coterie
+- [ ] Diferenciar Daño Superficial de Daño Agravado. (No posible actualmente)
 - Y mucho más según avance Sandbox :)
