@@ -1,6 +1,9 @@
 # Vampiro V5
 
 <a href='https://ko-fi.com/musrha' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='¡Apóyame en Ko-Fi!' /></a>
+
+<a href='https://paypal.me/musrha' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://blog.desdelinux.net/wp-content/uploads/2016/07/DonacionPayPal.png' border='0' alt='¡Apóyame en Ko-Fi!' /></a>
+
  
 Ficha y sistema de **Vampiro: La Mascarada V5 (Quinta Edición)** usando [Sandbox](https://gitlab.com/rolnl/sandbox-system-builder/) de [Seregras](https://www.youtube.com/c/RolNL/).
 
