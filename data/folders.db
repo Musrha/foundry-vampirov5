@@ -33,16 +33,19 @@
 {"_id":"biH19MxljYNX9iZW","name":"_TABS","type":"Item","sort":200000,"flags":{},"parent":"J0Vec64gFklKi6ZM","color":""}
 {"_id":"ekP47Ykp5DN9YMAM","name":"Protean","type":"Item","sort":900000,"flags":{},"parent":"uP4F5Lh8gGypvRMa","color":"#790914"}
 {"_id":"h0apysKQztsZM1Fx","name":"Olvido","type":"Item","sort":650000,"flags":{},"parent":"uP4F5Lh8gGypvRMa","color":"#790914"}
-{"_id":"hIIuRiZ8RoHgZVIy","name":"Ventajas y Defectos","type":"Item","sort":400000,"flags":{},"parent":"DayAV0i9enn0OOzN","color":"#6c0183"}
+{"_id":"hIIuRiZ8RoHgZVIy","name":"Ventajas y Defectos","type":"Item","sort":300000,"flags":{},"parent":"DayAV0i9enn0OOzN","color":"#6c0183"}
 {"_id":"iiZ31cN0NIUQUbiW","name":"Méritos","type":"Item","sort":300000,"flags":{},"parent":"hIIuRiZ8RoHgZVIy","color":"#1f23b8"}
 {"_id":"k0H4ArVkzUxqQM6t","name":"_CONFIG","type":"Actor","sort":100000,"flags":{},"parent":null,"color":""}
 {"_id":"kDr4dK0w60oNtr6j","name":"Clanes","type":"Item","sort":1200000,"flags":{},"parent":"RJNDPBbMkbSn1QOf","color":""}
 {"_id":"lnEl3UQWO4TcGWBs","name":"Crónica","type":"Item","sort":400000,"flags":{},"parent":"oIHIZg9nMSQzHKDe","color":""}
+{"name":"Coterie","type":"Item","sort":3400000,"flags":{},"parent":"biH19MxljYNX9iZW","color":"","_id":"oCteRCn11lWut6Oc"}
 {"_id":"oIHIZg9nMSQzHKDe","name":"_PANELS","type":"Item","sort":100000,"flags":{},"parent":"J0Vec64gFklKi6ZM","color":""}
 {"_id":"okOPOLk8Dcql0wnw","name":"Ofuscación","type":"Item","sort":600000,"flags":{},"parent":"uP4F5Lh8gGypvRMa","color":"#790914"}
+{"name":"Coterie","type":"Item","sort":3600000,"flags":{},"parent":"z8Eyre4U4MZtlWW8","color":"","_id":"qjVrUbw7q18L8Gwm"}
+{"name":"Coterie","type":"Item","sort":3500000,"flags":{},"parent":"oIHIZg9nMSQzHKDe","color":"","_id":"rkPeSV3ZHc1DjIDZ"}
 {"name":"Groups","type":"Item","sort":1600000,"flags":{},"parent":"NgzkG6AZTNlHcGrm","color":"","_id":"tepqmGDz3gpzAC3z"}
 {"_id":"u6bVP5tgT5NzBt6H","name":"Defectos","type":"Item","sort":400000,"flags":{},"parent":"hIIuRiZ8RoHgZVIy","color":"#514f51"}
-{"_id":"uP4F5Lh8gGypvRMa","name":"DISCIPLINAS","type":"Item","sort":300000,"flags":{},"parent":"DayAV0i9enn0OOzN","color":"#790914"}
+{"_id":"uP4F5Lh8gGypvRMa","name":"DISCIPLINAS","type":"Item","sort":250000,"flags":{},"parent":"DayAV0i9enn0OOzN","color":"#790914"}
 {"_id":"v8qVm5HGQMJTzxPB","name":"Disciplinas","type":"Item","sort":600000,"flags":{},"parent":"z8Eyre4U4MZtlWW8","color":""}
 {"_id":"vOGEdDWS7TVZGQlF","name":"Animalismo","type":"Item","sort":100000,"flags":{},"parent":"uP4F5Lh8gGypvRMa","color":"#790914"}
 {"_id":"vX9oCxu5kLybT69Y","name":"Disciplinas2","type":"Item","sort":700000,"flags":{},"parent":"z8Eyre4U4MZtlWW8","color":""}
