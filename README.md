@@ -18,4 +18,5 @@ Te recomiendo que lo instales con este enlace al [world.json](https://raw.github
 - [X] Separar Méritos/Defectos de Sangre Débil
 - [X] Plantilla de ficha para la Coterie
 - [ ] Diferenciar Daño Superficial de Daño Agravado. (No posible actualmente)
+- [ ] Marcar Máculas en Humanidad. (No posible actualmente)
 - Y mucho más según avance Sandbox :)
