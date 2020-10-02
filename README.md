@@ -3,7 +3,7 @@
 <a href='https://ko-fi.com/musrha' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='¡Apóyame en Ko-Fi!' /></a> <a href='https://paypal.me/musrha' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://blog.desdelinux.net/wp-content/uploads/2016/07/DonacionPayPal.png' border='0' alt='¡Apóyame en Ko-Fi!' /></a>
 
  
-Ficha y sistema de **Vampiro: La Mascarada V5 (Quinta Edición)** usando [Sandbox](https://gitlab.com/rolnl/sandbox-system-builder/) de [Seregras](https://www.youtube.com/c/RolNL/).
+Ficha y sistema de **Vampiro: La Mascarada V5 (Quinta Edición)** usando [Sandbox](https://gitlab.com/rolnl/sandbox-system-builder/) de [Seregras](https://www.youtube.com/c/RolNL/). Si quieres ayudar puedes hacerlo en los botones de arriba, pero considera apoyar en primer lugar el [Patreon](https://www.patreon.com/seregras) de Seregras para agradecerle como es debido el currazo que se está pegando con Sandbox.
 
 En el Journal/Diario encontrarás un **Léeme** donde encontrarás una pequeña guía de como utilizar correctamente la ficha, además de los créditos.
 
