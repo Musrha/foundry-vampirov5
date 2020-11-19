@@ -1,3 +1,4 @@
+{"key":"core.time","value":"0","_id":"0SchuWI4QQaGMH9x"}
 {"_id":"1GHANdEtHavI6AgA","key":"dd-import.importSettings","value":"{\"source\":\"data\",\"extension\":\"png\",\"bucket\":\"\",\"region\":\"\",\"path\":\"worlds/vampirov5\",\"offset\":0.1,\"fidelity\":3}"}
 {"_id":"3PJR8XqLhQWjWVQ4","key":"sandbox.showSimpleRoller","value":"false"}
 {"_id":"3TuP7Z1qndilvFXq","key":"custom-css.rule3","value":"\"<DELETED>\""}
@@ -13,7 +14,7 @@
 {"_id":"GRbkepVeBqxPTACe","key":"custom-css.rule7","value":"\"<DELETED>\""}
 {"key":"custom-css.folder3","value":"\"<DELETED>\"","_id":"GrVzqwEkMDBfdlVr"}
 {"_id":"Oa5bo07bu5hiXIT5","key":"custom-css.rule18","value":"\"<DELETED>\""}
-{"_id":"PfBulcPrOvRp69Qt","key":"core.moduleConfiguration","value":"{\"special-dice-roller\":false,\"dd-import\":false,\"foundry_community_macros\":false,\"foundry_community_tables\":false,\"game-icons-net\":false,\"parallaxia\":false,\"swade-es\":false,\"dice-so-nice\":true,\"FoundryVTT-ES\":false,\"vtta-didyouknow\":false,\"dragupload\":false,\"jitsirtc\":false,\"BatchPermissionsByFolder\":true,\"fxmaster\":false,\"custom-journal\":false,\"XCard\":false,\"custom-css\":false,\"pdftofoundry\":false,\"pdfoundry\":false,\"permission_viewer\":true,\"plutonium\":false,\"adventuremusic\":false,\"butler\":false,\"cardsupport\":false,\"colorsettings\":false,\"forien-quest-log\":false,\"inlinewebviewer\":false}"}
+{"_id":"PfBulcPrOvRp69Qt","key":"core.moduleConfiguration","value":"{\"dice-so-nice\":true,\"conjuroscelie\":false,\"multilevel-tokens\":false,\"parallaxia\":false,\"vampire5th-dice-roller\":true}"}
 {"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"WabSLgVU5lW1wFDZ"}
 {"_id":"aE37Jjipfu1zGag8","key":"custom-css.rule1","value":"\"<DELETED>\""}
 {"key":"custom-css.rule4","value":"\"<DELETED>\"","_id":"dOlW8J9cAYcVC1Ed"}
